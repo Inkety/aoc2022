@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="290b183e-2634-4512-b9fb-59617773cfe4" name="Changes" comment="" />
+    <list default="true" id="290b183e-2634-4512-b9fb-59617773cfe4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/day4.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4/day4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/day5.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5/day5.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +27,7 @@
     <setting file="file://$PROJECT_DIR$/day3/day3.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/day3/input.txt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/day4/day4.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day5/day5.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

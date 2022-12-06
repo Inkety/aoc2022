@@ -53,8 +53,6 @@ for stack in cS:
 
 print(f"p1a: {ans}")
 
-
-
 # PART TWO
 for do in moves2:
     point = len(cS2[int(do[2])-1])
